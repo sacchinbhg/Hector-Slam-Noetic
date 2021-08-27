@@ -1,4 +1,4 @@
-# hector_slam
+## hector_slam
 
 This repositary shows how to make hector slam work in Ros noetic version.
 
